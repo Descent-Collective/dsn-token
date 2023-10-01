@@ -10,14 +10,14 @@ Note that anyone, not only $OSN holders, can submit proposals for an $OSN vote.
 The $OSN token has 3 methods of use within the OSN Protocol 
 
 - As a utility token
-    - As NGNX stability fees earned on Vaults accrue within the Onboard Protocol, 
-    $OSN holders can use $OSN to vote to enable the the auction module to sell NGNX surplus for $OSN.  Once the auction is complete the $OSN protocol burns the $OSN.
+    - As xNGN stability fees earned on Vaults accrue within the Onboard Protocol, 
+    $OSN holders can use $OSN to vote to enable the the auction module to sell xNGN surplus for $OSN.  Once the auction is complete the $OSN protocol burns the $OSN.
 
 - As a governance token
     - $OSN is used by $OSN holders to vote for the risk management and business logic of the Onboard Protocol. Tokens are a simple representation of voting power.
 
 - As a recapitalization resource
-    - $OSN can autonomously be minted by the auction module and sold for NGNX, which is used to recap the Onboard Protocol in times of insolvency.
+    - $OSN can autonomously be minted by the auction module and sold for xNGN, which is used to recap the Onboard Protocol in times of insolvency.
 
 
 ## Usage
