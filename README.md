@@ -1,23 +1,23 @@
-# OSN Token 🏦
+# DSN Token 🏦
 
-This repository contains the contract code for the OSN Token
+This repository contains the contract code for the DSN Token
 
-The $OSN token—the governance token of the Onboard Protocol, allows those who hold it to vote on changes to the Onboard Protocol. 
-Note that anyone, not only $OSN holders, can submit proposals for an $OSN vote.
+The $DSN token—the governance token of the Descent Protocol, allows those who hold it to vote on changes to the Descent Protocol. 
+Note that anyone, not only $DSN holders, can submit proposals for an $DSN vote.
 
 ## Design Considerations
 
-The $OSN token has 3 methods of use within the OSN Protocol 
+The $DSN token has 3 methods of use within the Descent Protocol 
 
 - As a utility token
-    - As NGNX stability fees earned on Vaults accrue within the Onboard Protocol, 
-    $OSN holders can use $OSN to vote to enable the the auction module to sell NGNX surplus for $OSN.  Once the auction is complete the $OSN protocol burns the $OSN.
+    - As NGNX stability fees earned on Vaults accrue within the Descent Protocol, 
+    $DSN holders can use $DSN to vote to enable the the auction module to sell NGNX surplus for $DSN.  Once the auction is complete the $DSN protocol burns the $DSN.
 
 - As a governance token
-    - $OSN is used by $OSN holders to vote for the risk management and business logic of the Onboard Protocol. Tokens are a simple representation of voting power.
+    - $DSN is used by $DSN holders to vote for the risk management and business logic of the Descent Protocol. Tokens are a simple representation of voting power.
 
 - As a recapitalization resource
-    - $OSN can autonomously be minted by the auction module and sold for NGNX, which is used to recap the Onboard Protocol in times of insolvency.
+    - $DSN can autonomously be minted by the auction module and sold for NGNX, which is used to recap the Descent Protocol in times of insolvency.
 
 
 ## Usage
@@ -35,8 +35,8 @@ The $OSN token has 3 methods of use within the OSN Protocol
 -   Clone the repository
 
     ```bash
-    git clone https://github.com/Descent-Collective/osn-token.git
-    cd osn-token
+    git clone https://github.com/Descent-Collective/DSN-token.git
+    cd DSN-token
     ```
 
 -   Install packages
