@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.21;
 
-interface IOSN {
+interface IDSN {
     function mint(address account, uint amount) external returns (bool);
 
     function burn(address account, uint amount) external returns (bool);

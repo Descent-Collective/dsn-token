@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Descent-Collective/osn-token.git"
+    "url": "https://github.com/Descent-Collective/dsn-token.git"
   },
   "devDependencies": {
     "@ethersproject/bignumber": "^5.4.1",
