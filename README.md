@@ -10,14 +10,14 @@ Note that anyone, not only $DSN holders, can submit proposals for an $DSN vote.
 The $DSN token has 3 methods of use within the Descent Protocol 
 
 - As a utility token
-    - As NGNX stability fees earned on Vaults accrue within the Descent Protocol, 
-    $DSN holders can use $DSN to vote to enable the the auction module to sell NGNX surplus for $DSN.  Once the auction is complete the $DSN protocol burns the $DSN.
+    - As xNGN stability fees earned on Vaults accrue within the Descent Protocol, 
+    $DSN holders can use $DSN to vote to enable the the auction module to sell xNGN surplus for $DSN.  Once the auction is complete the $DSN protocol burns the $DSN.
 
 - As a governance token
     - $DSN is used by $DSN holders to vote for the risk management and business logic of the Descent Protocol. Tokens are a simple representation of voting power.
 
 - As a recapitalization resource
-    - $DSN can autonomously be minted by the auction module and sold for NGNX, which is used to recap the Descent Protocol in times of insolvency.
+    - $DSN can autonomously be minted by the auction module and sold for xNGN, which is used to recap the Descent Protocol in times of insolvency.
 
 
 ## Usage
